@@ -1,0 +1,25 @@
+{
+  "name": "es6-transpilers-comparison",
+  "version": "0.1.0",
+  "description": "Comparison of ES6 Transpilers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ES6",
+    "transpiler"
+  ],
+  "author": "hax <johnhax@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "6to5": "^1.10",
+    "es6-macros": "0.0.7",
+    "es6-transpiler": "^0.7",
+    "es6now": "^0.8",
+    "esnext": "^0.12",
+    "jsdc": "^0.4.15-1",
+    "jstransform": "^7.0",
+    "traceur": "0.0.72"
+  }
+}
